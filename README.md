@@ -18,7 +18,7 @@ HTML and CSS (flex box, keyfram animations, etc)
 - [@giftednathan](https://www.github.com/giftednathan)
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Nathaniel! 👋
 
 
 ## 🚀 About Me
